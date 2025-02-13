@@ -36,7 +36,7 @@ const StatsCard = () => {
             className="grid grid-cols-1 sm:grid-cols-3 gap-8"
           >
             <div className="text-center sm:text-left">
-              <h2 className="text-2xl sm:text-3xl font-bold text-white mb-2">10k+</h2>
+              <h2 className="text-2xl sm:text-3xl font-bold text-white mb-2">12k+</h2>
               <p className="text-card-text uppercase text-sm tracking-wider">Companies</p>
             </div>
             <div className="text-center sm:text-left">
@@ -53,7 +53,7 @@ const StatsCard = () => {
         <div className="lg:w-1/2 relative">
           <div className="absolute inset-0 bg-card-accent mix-blend-multiply opacity-75"></div>
           <img 
-            src="/lovable-uploads/e77ce123-6f53-49db-8e2a-64b5746fb845.png"
+            src="/lovable-uploads/image-header-desktop.jpg"
             alt="Team working on analytics"
             className="w-full h-full object-cover"
           />
